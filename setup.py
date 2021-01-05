@@ -14,7 +14,7 @@ except (AttributeError, ImportError):
     def _pyimp():
         return 'Python (unknown)'
 
-NAME = 'celery'
+NAME = 'celery-yywing'
 
 # -*- Python Versions -*-
 
